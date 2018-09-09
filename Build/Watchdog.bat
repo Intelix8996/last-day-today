@@ -2,7 +2,7 @@
 
 echo ----Do not close this window!----
 
-start powershell Get-Content log.txt -Wait
+start powershell "Get-Content log.txt -Wait | Select-String -Pattern '\(File' -NotMatch"
 
 :loop
 tasklist /FI "IMAGENAME eq powershell.exe" /NH | find /I /N "powershell.exe" >NUL

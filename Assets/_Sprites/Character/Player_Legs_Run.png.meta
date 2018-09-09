@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: 2a53dfc1c27dd4c42a6568644c8eff70
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player_Legs_Run_0
+    21300002: Player_Legs_Run_1
+    21300004: Player_Legs_Run_2
+    21300006: Player_Legs_Run_3
+    21300008: Player_Legs_Run_4
+    21300010: Player_Legs_Run_5
+    21300012: Player_Legs_Run_6
+    21300014: Player_Legs_Run_7
+    21300016: Player_Legs_Run_8
+    21300018: Player_Legs_Run_9
+    21300020: Player_Legs_Run_10
+    21300022: Player_Legs_Run_11
+    21300024: Player_Legs_Run_12
+    21300026: Player_Legs_Run_13
+    21300028: Player_Legs_Run_14
+    21300030: Player_Legs_Run_15
+    21300032: Player_Legs_Run_16
+    21300034: Player_Legs_Run_17
+    21300036: Player_Legs_Run_18
+    21300038: Player_Legs_Run_19
+    21300040: Player_Legs_Run_20
+    21300042: Player_Legs_Run_21
+    21300044: Player_Legs_Run_22
+    21300046: Player_Legs_Run_23
+    21300048: Player_Legs_Run_24
+    21300050: Player_Legs_Run_25
+    21300052: Player_Legs_Run_26
+    21300054: Player_Legs_Run_27
+    21300056: Player_Legs_Run_28
+    21300058: Player_Legs_Run_29
+    21300060: Player_Legs_Run_30
+    21300062: Player_Legs_Run_31
+    21300064: Player_Legs_Run_32
+    21300066: Player_Legs_Run_33
+    21300068: Player_Legs_Run_34
+    21300070: Player_Legs_Run_35
+    21300072: Player_Legs_Run_36
+    21300074: Player_Legs_Run_37
+    21300076: Player_Legs_Run_38
+    21300078: Player_Legs_Run_39
+    21300080: Player_Legs_Run_40
+    21300082: Player_Legs_Run_41
+    21300084: Player_Legs_Run_42
+    21300086: Player_Legs_Run_43
+    21300088: Player_Legs_Run_44
+    21300090: Player_Legs_Run_45
+    21300092: Player_Legs_Run_46
+    21300094: Player_Legs_Run_47
+    21300096: Player_Legs_Run_48
+    21300098: Player_Legs_Run_49
+    21300100: Player_Legs_Run_50
+    21300102: Player_Legs_Run_51
+    21300104: Player_Legs_Run_52
+    21300106: Player_Legs_Run_53
+    21300108: Player_Legs_Run_54
+    21300110: Player_Legs_Run_55
+    21300112: Player_Legs_Run_56
+    21300114: Player_Legs_Run_57
+    21300116: Player_Legs_Run_58
+    21300118: Player_Legs_Run_59
+    21300120: Player_Legs_Run_60
+    21300122: Player_Legs_Run_61
+    21300124: Player_Legs_Run_62
+    21300126: Player_Legs_Run_63
+    21300128: Player_Legs_Run_64
+    21300130: Player_Legs_Run_65
+    21300132: Player_Legs_Run_66
+    21300134: Player_Legs_Run_67
+    21300136: Player_Legs_Run_68
+    21300138: Player_Legs_Run_69
+    21300140: Player_Legs_Run_70
+    21300142: Player_Legs_Run_71
+    21300144: Player_Legs_Run_72
+    21300146: Player_Legs_Run_73
+    21300148: Player_Legs_Run_74
+    21300150: Player_Legs_Run_75
+    21300152: Player_Legs_Run_76
+    21300154: Player_Legs_Run_77
+    21300156: Player_Legs_Run_78
+    21300158: Player_Legs_Run_79
+    21300160: Player_Legs_Run_80
+    21300162: Player_Legs_Run_81
+    21300164: Player_Legs_Run_82
+    21300166: Player_Legs_Run_83
+    21300168: Player_Legs_Run_84
+    21300170: Player_Legs_Run_85
+    21300172: Player_Legs_Run_86
+    21300174: Player_Legs_Run_87
+    21300176: Player_Legs_Run_88
+    21300178: Player_Legs_Run_89
+    21300180: Player_Legs_Run_90
+    21300182: Player_Legs_Run_91
+    21300184: Player_Legs_Run_92
+    21300186: Player_Legs_Run_93
+    21300188: Player_Legs_Run_94
+    21300190: Player_Legs_Run_95
+    21300192: Player_Legs_Run_96
+    21300194: Player_Legs_Run_97
+    21300196: Player_Legs_Run_98
+    21300198: Player_Legs_Run_99
+    21300200: Player_Legs_Run_100
+    21300202: Player_Legs_Run_101
+    21300204: Player_Legs_Run_102
+    21300206: Player_Legs_Run_103
+    21300208: Player_Legs_Run_104
+    21300210: Player_Legs_Run_105
+    21300212: Player_Legs_Run_106
+    21300214: Player_Legs_Run_107
+    21300216: Player_Legs_Run_108
+    21300218: Player_Legs_Run_109
+    21300220: Player_Legs_Run_110
+    21300222: Player_Legs_Run_111
+    21300224: Player_Legs_Run_112
+    21300226: Player_Legs_Run_113
+    21300228: Player_Legs_Run_114
+    21300230: Player_Legs_Run_115
+    21300232: Player_Legs_Run_116
+    21300234: Player_Legs_Run_117
+    21300236: Player_Legs_Run_118
+    21300238: Player_Legs_Run_119
+    21300240: Player_Legs_Run_120
+    21300242: Player_Legs_Run_121
+    21300244: Player_Legs_Run_122
+    21300246: Player_Legs_Run_123
+    21300248: Player_Legs_Run_124
+    21300250: Player_Legs_Run_125
+    21300252: Player_Legs_Run_126
+    21300254: Player_Legs_Run_127
+    21300256: Player_Legs_Run_128
+    21300258: Player_Legs_Run_129
+    21300260: Player_Legs_Run_130
+    21300262: Player_Legs_Run_131
+    21300264: Player_Legs_Run_132
+    21300266: Player_Legs_Run_133
+    21300268: Player_Legs_Run_134
+    21300270: Player_Legs_Run_135
+    21300272: Player_Legs_Run_136
+    21300274: Player_Legs_Run_137
+    21300276: Player_Legs_Run_138
+    21300278: Player_Legs_Run_139
+    21300280: Player_Legs_Run_140
+    21300282: Player_Legs_Run_141
+    21300284: Player_Legs_Run_142
+    21300286: Player_Legs_Run_143
+    21300288: Player_Legs_Run_144
+    21300290: Player_Legs_Run_145
+    21300292: Player_Legs_Run_146
+    21300294: Player_Legs_Run_147
+    21300296: Player_Legs_Run_148
+    21300298: Player_Legs_Run_149
+    21300300: Player_Legs_Run_150
+    21300302: Player_Legs_Run_151
+    21300304: Player_Legs_Run_152
+    21300306: Player_Legs_Run_153
+    21300308: Player_Legs_Run_154
+    21300310: Player_Legs_Run_155
+    21300312: Player_Legs_Run_156
+    21300314: Player_Legs_Run_157
+    21300316: Player_Legs_Run_158
+    21300318: Player_Legs_Run_159
+    21300320: Player_Legs_Run_160
+    21300322: Player_Legs_Run_161
+    21300324: Player_Legs_Run_162
+    21300326: Player_Legs_Run_163
+    21300328: Player_Legs_Run_164
+    21300330: Player_Legs_Run_165
+    21300332: Player_Legs_Run_166
+    21300334: Player_Legs_Run_167
+    21300336: Player_Legs_Run_168
+    21300338: Player_Legs_Run_169
+    21300340: Player_Legs_Run_170
+    21300342: Player_Legs_Run_171
+    21300344: Player_Legs_Run_172
+    21300346: Player_Legs_Run_173
+    21300348: Player_Legs_Run_174
+    21300350: Player_Legs_Run_175
+    21300352: Player_Legs_Run_176
+    21300354: Player_Legs_Run_177
+    21300356: Player_Legs_Run_178
+    21300358: Player_Legs_Run_179
+    21300360: Player_Legs_Run_180
+    21300362: Player_Legs_Run_181
+    21300364: Player_Legs_Run_182
+    21300366: Player_Legs_Run_183
+    21300368: Player_Legs_Run_184
+    21300370: Player_Legs_Run_185
+    21300372: Player_Legs_Run_186
+    21300374: Player_Legs_Run_187
+    21300376: Player_Legs_Run_188
+    21300378: Player_Legs_Run_189
+    21300380: Player_Legs_Run_190
+    21300382: Player_Legs_Run_191
+    21300384: Player_Legs_Run_192
+    21300386: Player_Legs_Run_193
+    21300388: Player_Legs_Run_194
+    21300390: Player_Legs_Run_195
+    21300392: Player_Legs_Run_196
+    21300394: Player_Legs_Run_197
+    21300396: Player_Legs_Run_198
+    21300398: Player_Legs_Run_199
+    21300400: Player_Legs_Run_200
+    21300402: Player_Legs_Run_201
+    21300404: Player_Legs_Run_202
+    21300406: Player_Legs_Run_203
+    21300408: Player_Legs_Run_204
+    21300410: Player_Legs_Run_205
+    21300412: Player_Legs_Run_206
+    21300414: Player_Legs_Run_207
+    21300416: Player_Legs_Run_208
+    21300418: Player_Legs_Run_209
+    21300420: Player_Legs_Run_210
+    21300422: Player_Legs_Run_211
+    21300424: Player_Legs_Run_212
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Legs_Run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14300
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da642fb32c41d97469c702e93659e061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_1
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 14300
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86cec5ab5a17bc459bd74a28489bb3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13000
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7895d3b4da93645b1faa3517c0f415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_3
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 13000
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5218f6bd5e9d3146bbe3891c7d702f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11700
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37c8a21152502940af4c99391ac3c6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 11700
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fa1bf18f69d824a87fc169c6e705b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10400
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486bfc15cc683684499804a1fc877c39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_7
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 10400
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f969b8a714debec449c6cc0e35512b52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9100
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dcda637cc240d46b0cd633cd26027b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_9
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 9100
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448d5d4c722f9f14b94e6417f8e8e823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7800
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ecbb328501137418813247a4c2fb9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_11
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 7800
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04569f3f6d7519a44b0bba3db3964cda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6500
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beae75e98de6214eb29e8ebae35a7fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_13
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 6500
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f66bc26c2588a447a1f23c41ecbabcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5200
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b167ffaed77ca4eb6b93dcc278b10a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_15
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 5200
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122d42280536adf4595b9dd0e0a93b56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3900
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807583d677a82584a816ce6c4661c8ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_17
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3900
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff054b7d7f20d94fb9830129141b2f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2600
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce7d74efa6a5a846acb20d113345a2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_19
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2600
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413d0bf52254a4640b2bed13cece7330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d24c8ea76f1c5e48b63a21bcd64e253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_21
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1300
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2c7f26b8b086643b692245894b0b3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd0d91b2390a50419a33397bd4e2574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Legs_Run_23
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 1600
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36de2871064b3943bab2415fc28a7c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 48588aa53dd16cf41a003c39e911b847
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
